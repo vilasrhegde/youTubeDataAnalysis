@@ -1,4 +1,4 @@
-# YouTube Data Analysisy
+# YouTube Data Analysis
 
 ## Process
 1. List all the required channel's id 
