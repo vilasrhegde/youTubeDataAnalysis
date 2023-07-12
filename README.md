@@ -18,3 +18,4 @@
 12. Calculate videos per month
 13. Analyse the barchart to know in which month creator posted more videos
 14. Save all the details into a .csv file by ```video_data.to_csv('Video_Details(MRWhoseTheBoss).csv')```
+![image](https://github.com/vilasrhegde/youTubeDataAnalysis/assets/85540091/e1f4941c-4b4f-4f3d-89b9-16201911d3d9)
